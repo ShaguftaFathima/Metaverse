@@ -40,6 +40,7 @@ _For those looking to delve deeper into the world of the Metaverse, consider the
 _The Metaverse:_ And How it Will Revolutionize Everything
 Virtual Economies and NFTs in the Metaverse
 Metaverse Ethics and Privacy
+
 **🤝 Contributions & Feedback**
 
 _Feedback is welcome! Feel free to open an issue or submit a pull request. Let's collaborate to improve and expand our understanding of the Metaverse._
